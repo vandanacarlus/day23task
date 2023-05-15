@@ -1,0 +1,11 @@
+.col-lg-4{
+    background-color: blue;
+    width:20%;
+    display: flex;
+    flex-flow: row;
+
+}
+
+
+
+
